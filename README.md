@@ -1,4 +1,3 @@
-# create-wordpress-plugin
 # Tutorial on How to create a WordPress plugin
 #### http://programmerblog.net
 
