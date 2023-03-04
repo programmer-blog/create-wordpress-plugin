@@ -22,8 +22,8 @@ Following  step are required o create a WordPress plugin
 ### Step 9: Submit the Plugin to the WordPress Plugin Repository
 
 
-In conclusion, creating a WordPress plugin can be a fun and rewarding experience. By following the steps outlined in this tutorial, 
+Creating a WordPress plugin can be a fun and rewarding experience. By following the steps outlined in this tutorial, 
 
 you'll have a good understanding of how plugins work and the skills to create your own custom plugins. Good luck, and have fun!
 
-Read a detailed tutorial at: 
+Read a detailed tutorial at: https://programmerblog.net/how-to-create-a-wordpress-plugin/
